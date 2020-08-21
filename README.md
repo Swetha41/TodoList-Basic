@@ -1,2 +1,2 @@
-# todoList-basic
-todoList-basic developed with Express, EJS and MongoDB
+# TodoList-Basic
+TodoList-Basic with Node JS, Express, EJS and MongoDB
